@@ -2,7 +2,7 @@
 В репозитории приведены упражнения к главам книги Programming  **PyTorch for
 Deep Learning**, Ian Pointer.
 
-## Потребуютмя следующие модули
+## Потребуютcя следующие модули
 sox - https://pypi.org/project/sox/
 librosa - https://pypi.org/project/librosa/
 matplotlib - https://matplotlib.org/stable/users/installing.html
